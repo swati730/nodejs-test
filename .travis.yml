@@ -1,4 +1,5 @@
 language: node_js
+build_environment: ubuntu1304
 node_js:
   - "0.10.x"
 before_script:
