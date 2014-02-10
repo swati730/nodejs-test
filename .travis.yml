@@ -1,6 +1,6 @@
 language: node_js
 build_environment: ubuntu1304
 node_js:
-  - "10.2.4"
+  - "0.10"
 before_script:
   - npm install -g grunt-cli
